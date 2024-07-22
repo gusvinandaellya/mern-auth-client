@@ -1,0 +1,1 @@
+## MERN STACK AUTHENTICATION with Express.js, React, Node.js, and MongoDB (CLIENT SIDE)
